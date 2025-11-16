@@ -11,7 +11,7 @@
         "@helsenorge/designsystem-react": "^4.3.0",
         "@helsenorge/file-upload": "^28.2.1",
         "@helsenorge/form": "^28.2.1",
-        "@helsenorge/refero": "^13.2.2",
+        "@helsenorge/refero": "^20.1.2",
         "@helsenorge/toolkit": "^21.3.0-prerelease",
         "@nosferatu500/react-sortable-tree": "^3.0.3",
         "axios": "^0.21.4",
@@ -31,7 +31,7 @@
         "react-i18next": "^11.7.0",
         "react-redux": "^7.1.0",
         "react-router-dom": "^5.2.0",
-        "react-scripts": "^4.0.3",
+        "react-scripts": "^5.0.0",
         "redux": "^4.2.1",
         "redux-thunk": "^2.4.2",
         "remove-markdown": "^0.5.0"
